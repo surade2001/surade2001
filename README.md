@@ -1,4 +1,4 @@
-# GPRM
+
 # 💫 About Me:
 Hi, I'm Swapnil! I'm a Fresher  software engineer. I have a degree in Computer Science and have worked on a variety of projects ranging from mobile  app development to web application development.<br><br>My main areas of expertise are in java and HTML & CSS , JavaScript, but I'm always learning and expanding my skillset. Currently, I'm interested in exploring Java fullstack and database MYSQL, and I'm working on a personal project to predict stock prices using machine learning algorithms.<br><br>In my free time, I contribute to various open-source projects, including Django and React. I'm also a member of several online coding communities and attend local meetups to stay connected with the development community.<br><br>When I'm not coding, I enjoy hiking and exploring the great outdoors. I'm also a fan of sci-fi movies and love to read books on astrophysics.
 
