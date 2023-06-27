@@ -1,4 +1,5 @@
- <h1 align="center">Hi 👋, I'm Swapnil Urade</h1>
+ ![logo](https://github.com/surade2001/surade2001/blob/main/header_file.gif)
+<h1 align="center">Hi 👋, I'm Swapnil Urade</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
 <img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
