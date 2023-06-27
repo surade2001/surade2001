@@ -7,19 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/swapnilurade18@gmail.com" target="blank"><img src="https://img.shields.io/twitter/follow/swapnilurade18@gmail.com?logo=twitter&style=for-the-badge" alt="swapnilurade18@gmail.com" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot Framework**
-
-- 👯 I’m looking to collaborate on **Open to work**
-
-- 🤝 I’m looking for help with **All Web Project**
-
 - 👨‍💻 All of my projects are available at [https://github.com/surade2001](https://github.com/surade2001)
-
-- 💬 Ask me about **Java FullStack Development**
 
 - 📫 How to reach me **swapnilurade18@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11We9e6M7tDjs5L_-0NbbI1IbLYryKuLn/view?usp=drivesdk](https://drive.google.com/file/d/11We9e6M7tDjs5L_-0NbbI1IbLYryKuLn/view?usp=drivesdk)
+
+- ⚡ Fun fact **I think am funny 😅😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
