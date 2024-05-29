@@ -1,6 +1,4 @@
-<div class="center">
-    <img src="![logo](https://github.com/surade2001/surade2001/blob/main/header_file.gif)" alt="Centered GIF">
-</div>
+![logo](https://github.com/surade2001/surade2001/blob/main/header_file.gif)
 <h1 align="center">Hi 👋, I'm Swapnil Urade</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
