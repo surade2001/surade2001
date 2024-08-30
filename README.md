@@ -1,4 +1,6 @@
- ![logo](https://github.com/surade2001/surade2001/blob/main/header_file.gif)
+ <div align="center">
+  <img src="https://github.com/surade2001/surade2001/blob/main/header_file.gif" alt="logo">
+</div>
 
 <h1 align="center">Hi 👋, I'm Swapnil Urade</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
@@ -99,13 +101,13 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surade2001&show_icons=true&locale=en&layout=compact" alt="surade2001" />
 </p>
-<br><br>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surade2001&show_icons=true&locale=en" alt="surade2001" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surade2001&show_icons=true&locale=en" alt="surade2001" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surade2001&" alt="surade2001" />
 </p>
+<br><br>
 
